@@ -10,7 +10,7 @@ Runs the pipeline in production mode by default.
 
 Backtest Mode:
 
-Can be enabled by setting BACKTEST_MODE = True ,in main.py.
+Can be enabled by setting BACKTEST_MODE = True ,in **main.py**.
 
 Provides flexible testing for different clients and date ranges.
 -------------------------------------------------------------------------------------------------------------------------
