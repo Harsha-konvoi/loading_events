@@ -1,0 +1,27 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment variables (secrets)
+.env
+
+# IDE files
+.idea/
+.history/
+
+# Machine learning models
+saved_models/
+
+# Output / results
+results/
+
+# Data files
+validation/
+
+# Data formats (ignore ALL csv & parquet files)
+*.csv
+*.parquet
+
+# Binary / large files
+*.pkl
+*.onnx
