@@ -3,7 +3,10 @@ Production Mode:
 
 Batch File: Loading_Pipeline.bat
 
-Executes Stage-2 loading classification automatically for the previous 1 hour of data for all clients in client_config.
+Executes classification automatically for the previous 1 hour of data for all clients in client_config.
+
+**Note:**
+Need to the change the script folder directory in .bat file
 
 Runs the pipeline in production mode by default.
 --------------------------------------------------------------------------------------------------------------------------
