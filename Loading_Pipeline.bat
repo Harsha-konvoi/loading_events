@@ -6,7 +6,7 @@ REM Activate your environment
 CALL conda activate deploy
 
 REM Navigate to your script folder
-cd C:\Code_base\shock_model-optimized
+cd C:\Code_base\loading_events
 
 REM Run your Python scripts sequentially
 python main.py
